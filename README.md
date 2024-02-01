@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlitosmolina3
 - 👀 I’m interested in videogame development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript, C# y SqlServer
 - 💞️ I’m looking to collaborate on any project in which I can help and learn
 - 📫 How to reach me carlitosmolina15@gmail.com 
 
